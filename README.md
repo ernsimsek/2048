@@ -162,5 +162,7 @@ Works in all modern browsers that support ES modules and localStorage:
 - Safari (latest)
 - Mobile browsers (iOS Safari, Chrome for Android)
 
-<img width="1918" height="1078" alt="2048" src="https://github.com/user-attachments/assets/e9a0ce30-5493-4154-a01f-dcd671ace770" />
+---
+
+<img width="1669" height="939" alt="2048" src="https://github.com/user-attachments/assets/bb987582-95b8-4b59-b1e0-daf293a0ffc6" />
 
