@@ -164,12 +164,3 @@ Works in all modern browsers that support ES modules and localStorage:
 
 ---
 
-## License
-
-This project is private. All rights reserved.
-
----
-
-<p align="center">
-  Built with React + Vite · Inspired by the original <a href="https://github.com/gabrielecirulli/2048">2048</a> by Gabriele Cirulli
-</p>
