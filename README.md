@@ -161,6 +161,3 @@ Works in all modern browsers that support ES modules and localStorage:
 - Firefox (latest)
 - Safari (latest)
 - Mobile browsers (iOS Safari, Chrome for Android)
-
----
-
