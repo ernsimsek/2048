@@ -2,10 +2,6 @@
 
 A modern, feature-rich take on the classic **2048** puzzle game. Built with React and Vite, it delivers smooth animations, multiple game modes, ten visual themes, achievements, and full mobile support — all running entirely in the browser with local persistence.
 
-<p align="center">
-  <strong>Merge tiles. Reach 2048. Keep going.</strong>
-</p>
-
 ---
 
 ## Features
