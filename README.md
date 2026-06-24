@@ -51,7 +51,7 @@ A modern, feature-rich take on the classic **2048** puzzle game. Built with Reac
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ernsimsek/2048.git
 cd 2048
 
 # Install dependencies
